@@ -15,3 +15,8 @@
 <img width="976" height="671" alt="image" src="https://github.com/user-attachments/assets/eab8f8b6-affd-4d99-9251-009fb2b6947e" />
 <img width="958" height="656" alt="image" src="https://github.com/user-attachments/assets/05729149-42b5-4bfa-87dc-a81c908dc81e" />
 
+ json.dumps 觀察提取的資料:程式執行後顯示
+ <img width="961" height="891" alt="image" src="https://github.com/user-attachments/assets/9227589a-8f20-47be-9f41-d78ed97cb839" />
+
+ 
+ 
