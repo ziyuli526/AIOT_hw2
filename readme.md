@@ -1,1 +1,16 @@
+網址連結 : http://localhost:8501/
+
+下拉式選單:
+<img width="435" height="485" alt="image" src="https://github.com/user-attachments/assets/c84df526-3ac3-4f0a-9760-3e8293adc77b" />
+
+表格:
+<img width="1782" height="985" alt="image" src="https://github.com/user-attachments/assets/f4ef6eb1-45ea-40b4-bba8-750b6abea62a" />
+
+
+折線圖:
+<img width="978" height="950" alt="image" src="https://github.com/user-attachments/assets/1f3518bf-9c4a-4bc2-adb8-32621d20e8fb" />
+
+氣溫資料存到資料庫:
+<img width="976" height="671" alt="image" src="https://github.com/user-attachments/assets/eab8f8b6-affd-4d99-9251-009fb2b6947e" />
+<img width="958" height="656" alt="image" src="https://github.com/user-attachments/assets/05729149-42b5-4bfa-87dc-a81c908dc81e" />
 
