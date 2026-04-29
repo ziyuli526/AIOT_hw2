@@ -1,31 +1,31 @@
 網址連結 : https://aiothw2-jlmzzouezytxwjwg9wv5b7.streamlit.app/
 
-<img width="2489" height="1213" alt="image" src="https://github.com/user-attachments/assets/8bdfad0c-fc38-40c5-9a5f-2d4126e66c10" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/8bdfad0c-fc38-40c5-9a5f-2d4126e66c10" />
 
 
 下拉式選單:
 
-<img width="435" height="485" alt="image" src="https://github.com/user-attachments/assets/c84df526-3ac3-4f0a-9760-3e8293adc77b" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c84df526-3ac3-4f0a-9760-3e8293adc77b" />
 
 
 表格:
 
-<img width="1782" height="985" alt="image" src="https://github.com/user-attachments/assets/f4ef6eb1-45ea-40b4-bba8-750b6abea62a" />
+<img width="840" height="500" alt="image" src="https://github.com/user-attachments/assets/f4ef6eb1-45ea-40b4-bba8-750b6abea62a" />
 
 
 
 折線圖:
 
-<img width="978" height="950" alt="image" src="https://github.com/user-attachments/assets/1f3518bf-9c4a-4bc2-adb8-32621d20e8fb" />
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/1f3518bf-9c4a-4bc2-adb8-32621d20e8fb" />
 
 
 氣溫資料存到資料庫:
 
-<img width="976" height="671" alt="image" src="https://github.com/user-attachments/assets/eab8f8b6-affd-4d99-9251-009fb2b6947e" />
-<img width="958" height="656" alt="image" src="https://github.com/user-attachments/assets/05729149-42b5-4bfa-87dc-a81c908dc81e" />
+<img width="480" height="335" alt="image" src="https://github.com/user-attachments/assets/eab8f8b6-affd-4d99-9251-009fb2b6947e" />
+<img width="480" height="328" alt="image" src="https://github.com/user-attachments/assets/05729149-42b5-4bfa-87dc-a81c908dc81e" />
 
  json.dumps 觀察提取的資料:程式執行後顯示
- <img width="961" height="891" alt="image" src="https://github.com/user-attachments/assets/9227589a-8f20-47be-9f41-d78ed97cb839" />
+ <img width="480" height="445" alt="image" src="https://github.com/user-attachments/assets/9227589a-8f20-47be-9f41-d78ed97cb839" />
 
 
  # 🌤️ 台灣一週天氣預報儀表板
@@ -72,19 +72,6 @@
 
 ### 📊 地區天氣統整
 
-![Image](https://images.openai.com/static-rsc-4/uKT5K9TMwgPzO0xYjDqNegvTekTPoypU_PCik6yHs23jg_44PDuWA4InJbQvFQR3hqLXnW3WTJ4FvUaf4noXHBEhh_PucjeaiGbGu0kdwkj6CIcw6h3yFaUFsCJ8T9HYdTJxNAM3VBVookQZufg9gCNjseerfeu5Xn6hNkezcfcuYnobyjTuOIcA6yOr7amC?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/bcAeVr9ayBRhBYzHOZ1JOqCtXvpO4NQrFIcZ_wWA3lJT0hbiUqev8tJ9PlqjlZntkMO6X3BU0YJ6MEChSrwbTvxXaqghxvhHro8ABPZYLum-EO2pXxB4Q2yB8MCoo7MPPBhe_3msmUUxa8waymTz68aEKUtHKZoNkcp59JYrfHqlKdxqlXeL_6m3LmnI6ubB?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/x93vBL7w392Gzo6U1obN8cmFgCR_TiiOCGETlFiVuJgJPNIf2RtXww45yVCeiGpDRrLi2oFyeeMoamPLQOtHBcH40idIBASAtkCnn3h7u7PfPekwbnJHc4FVoGb7rrM2UALZKZ4GLZ5yUVvEOr0QvlBzqOSX1OQSB5WiIhh7yL2SxkwNnLYf4me3M3zQuXOf?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/OK_SLbQYg9vkH3b-s1Zj9JqwT06cJ7_b33XL9lYf18ne2Xi3yTHUWtyzaW8PVEashltMzyuwzCIc_pQwBpzcWRBnaGp8DycrMJuyvgWaL2y7s76ssk9RQ_d0jOXr-UshSRSpxFBbKiVrRE6MKq08zxyfVfOmAvm9y-65teCBZyIY-7Ww0B_LNo2BUR_lPSAI?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/si-VK5dj_X0JjlqrLwQpAr61J6y1chSyMfsYiYlxbjEduIbhVIusjNdsbrO1gKb5pe_VUk_U4INerBFIbY-cPqoXUCpi8lFCH7uJJhNuUD7LjCbbRSaXdUYoigxSio_LIq7X3AzO1w8-xQFdbwSvn8whQ0F1hIdSk_DzD3hs5N77yFsQIJHJsjMEiVD10HEx?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ydT4ZNymbbpq31odknX1dNLI_hhFensr8JxYYH-K5s4a84i3b8D98NG5UEGsNSVXEgsXktrAKMkwdeAE0MKytyhmCv610d65JDroU3HPcIVrIW0EmjiySHZ1iDXnmbEwsySWJwINJ0tsm0OEoK8ajs_-ferWWJ9t8Qg2nRx_DG7xwXhEW2Uw1VGpRI8ByXjM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/RmhyUhupSxHQvAzB1XV_5MXHwTXnf7wkIveam9y9ukd0YoBYhIEIT5l28p665CPclnso55G4ZM9FqciOi865clvBYe3oFeqjEbc6BBcECnqo9JwF41_KU4OUJeM8bg4syNJRbKiFhgCzJb4Ffo3-ULAma4x2Z2qA0UKDvuO0Ma4sL0XN0KCx9YwxSKE9rJ9y?purpose=fullsize)
 
 * 依北部 / 中部 / 南部 / 東部分類
 * 顯示：
@@ -97,17 +84,6 @@
 
 ### 📈 溫度趨勢分析
 
-![Image](https://images.openai.com/static-rsc-4/kuypInrUjX9ObyyNCXcdhT9zS9y4RA3tX9964fB8r8vmC8qWIRj3F5XZnxO3HaXF5WvXJebfQ_tWTY4z6wRLZp2w7v68_HHAQP9jVNpY5GGNEB3taHPgb_HB4YYrJOx3MCEGwhJZ9Z-efuB9778fMMV85Va7Q3mGrmbRnf9GF81B4VDUDp1NxHbTq_k8hl_Y?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/tyTwbsDPXZGdf9qhshZ6_PX789BSJw5rzzARm7Qk2esRuXZOoHkjjTh5OsvjmWuI9EZO3wG_hRWA0_s6W-FWGFIieOwJq2Gc8uKOKpZ7L-fzfvgDcwqkIc3LE4XY4PGAvqyNfPmKSE59BGP31H9pyEtr80Zd41ZOuSshGiYnQWXZl5nFzvsBGNGFeaKInMah?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/rIRD5_WwJjKnt48RDPQ0nKk_2GIw2MyJhRniJoed5zll2nLrrVenZVHwiPcjGv0Z6yMyM-gEtxXvLExX2PYslQrw7vkXogs9Ja5gH3cs5L0lIFQNlB5UIuTp5-0OUw-TfXaau5k-gaOviun9ESI3c05HZVqlndGINMUfhS9uPqHThqi8MpoZiQYxvwJMovLo?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/bu-TtSMb-pUqgonp5WQmDvtumBL2ss6YJWOM_rclzSp-0iJk7uydWakNWDKdlzK6vHYXpiwjolssQpm2Wv3XJ3Mc0vb9ojb4W86daFrAdq0GJUVWd4TwQaTPDef4EfxmhfBA2glyV4EFG0y3UTQVsnr2-qI7LYTVwgOyNKBQwdVptaBnERkzqi1wzT7m9pnT?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/0m3IAM5H4BYW-DZ1UHXBblFX7vRKnImq1QzNMCxKyXxJkgFuY_zAfl0BGlxD2Ern4e2MrPuu-lvYl5zwz3F0beTHNJBzRAkyuzSmXs7Ri9q51x5AdHgIYXbvMoGf88iIczWNAoJQoF9SgA9GI4qwH4RLR2OWg8lc4HKsREaJ0MqM4YzxV81idqhnnSByxsLH?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/0jBpUMEEMUnU2pUFG2-bK4ecyYjFeC9nh1jQJlIxz9J9I7bv0bEknv154ajUpk8uSkWiOFzHYwG0u0ICJd-zGbounjjlN2gsWNWb11WwZpl3JIzrZxckXUFHk58sCZdZqIUG7d4wDx2O8ih-RmF0i0kPhQEKWMuJx6sU9UCxulrrKwostaGgqDbiKDTKbcF_?purpose=fullsize)
 
 * 各地區平均溫度變化
 * 支援多時間點比較
