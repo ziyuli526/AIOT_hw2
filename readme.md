@@ -1,4 +1,4 @@
-網址連結 : http://localhost:8501/
+網址連結 : [http://localhost:8501/](https://aiothw2-jlmzzouezytxwjwg9wv5b7.streamlit.app/)
 
 <img width="2489" height="1213" alt="image" src="https://github.com/user-attachments/assets/8bdfad0c-fc38-40c5-9a5f-2d4126e66c10" />
 
